@@ -469,6 +469,11 @@ h6 {
 }
 
 @media only screen and (max-width: 768px) {
+    #snail {
+        height: 237px;
+        width: 296px;
+    }
+
     .carousel-img {
         align-content: center;
         height: 237px;
